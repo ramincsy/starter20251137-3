@@ -1,0 +1,2738 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Sajjad Ebrahimi",
+      "fa": "سجاد ابراهیمی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1103",
+    "mobile": "****",
+    "email": "s.ebrahimi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SajjadEbrahimi&options[style]=male"
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Haj Mahmoud Ebrahimi",
+      "fa": "حاج محمود ابراهیمی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1104",
+    "mobile": "****",
+    "email": "h.ebrahimi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HajMahmoudEbrahimi&options[style]=male"
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Shahram Ebrahimi",
+      "fa": "شهرام ابراهیمی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1105",
+    "mobile": "****",
+    "email": "sh.ebrahimi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShahramEbrahimi&options[style]=male"
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Samad Ne'mati",
+      "fa": "صمد نعمتی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1106",
+    "mobile": "****",
+    "email": "s.nemati@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamadNemati&options[style]=male"
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Samira Daneshpouran",
+      "fa": "سمیرا دانشپوران"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1107",
+    "mobile": "****",
+    "email": "sa.daneshpouran@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamiraDaneshpouran&options[style]=female"
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Yavar Shami",
+      "fa": "یاور شامی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1108",
+    "mobile": "****",
+    "email": "y.shami@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=YavarShami&options[style]=male"
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Farnaz Mohabbi",
+      "fa": "فرناز محبی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1109",
+    "mobile": "****",
+    "email": "f.mohabbi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FarnazMohabbi&options[style]=female"
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Houshang Mardani",
+      "fa": "هوشنگ مردانی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1110",
+    "mobile": "****",
+    "email": "h.mardani@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HoushangMardani&options[style]=male"
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Exchange Desk Manager",
+      "fa": "مدیریت صرافی میز"
+    },
+    "title": {
+      "en": "Exchange Desk Manager",
+      "fa": "مدیریت صرافی میز"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1112",
+    "mobile": "****",
+    "email": "exchange.desk1@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ExchangeDeskManager1&options[style]=male"
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Exchange Desk Manager",
+      "fa": "مدیریت صرافی میز"
+    },
+    "title": {
+      "en": "Exchange Desk Manager",
+      "fa": "مدیریت صرافی میز"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1113",
+    "mobile": "****",
+    "email": "exchange.desk2@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ExchangeDeskManager2&options[style]=male"
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Alireza Rostami",
+      "fa": "علیرضا رستمی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1114",
+    "mobile": "****",
+    "email": "a.rostami@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AlirezaRostami&options[style]=male"
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Ra'na Abtahi",
+      "fa": "رعنا ابطحی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1116",
+    "mobile": "****",
+    "email": "r.abtahi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RanaAbtahi&options[style]=female"
+  },
+  {
+    "id": 13,
+    "name": {
+      "en": "Milad Abdi",
+      "fa": "میلاد عبدی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1117",
+    "mobile": "****",
+    "email": "m.abdi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MiladAbdi&options[style]=male"
+  },
+  {
+    "id": 14,
+    "name": {
+      "en": "Behnam Pakkhiyal",
+      "fa": "بهنام پاکخیال"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1120",
+    "mobile": "****",
+    "email": "b.pakkhiyal@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=BehnamPakkhiyal&options[style]=male"
+  },
+  {
+    "id": 15,
+    "name": {
+      "en": "Ali Alami",
+      "fa": "علی علمی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1145",
+    "mobile": "****",
+    "email": "a.alami@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AliAlami&options[style]=male"
+  },
+  {
+    "id": 16,
+    "name": {
+      "en": "Roghaye Sharqi",
+      "fa": "رقیه شرقی"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1137",
+    "mobile": "****",
+    "email": "r.sharqi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RoghayeSharqi&options[style]=female"
+  },
+  {
+    "id": 17,
+    "name": {
+      "en": "Poory",
+      "fa": "پوری"
+    },
+    "title": {
+      "en": "Exchange Specialist",
+      "fa": "کارشناس صرافی"
+    },
+    "department": {
+      "en": "Exchange",
+      "fa": "صرافی"
+    },
+    "extension": "1142",
+    "mobile": "****",
+    "email": "p.pouri@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Poory&options[style]=female"
+  },
+  {
+    "id": 18,
+    "name": {
+      "en": "Yousef Ebrahimi",
+      "fa": "یوسف ابراهیمی"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2200",
+    "mobile": "****",
+    "email": "y.ebrahimi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=YousefEbrahimi&options[style]=male"
+  },
+  {
+    "id": 19,
+    "name": {
+      "en": "Pezhman Hazrati",
+      "fa": "پژمان حضرتی"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2201",
+    "mobile": "****",
+    "email": "p.hazrati@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=PezhmanHazrati&options[style]=male"
+  },
+  {
+    "id": 20,
+    "name": {
+      "en": "Shahriyar Ebrahimi",
+      "fa": "شهریار ابراهیمی"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2202",
+    "mobile": "****",
+    "email": "sh.ebrahimi2@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShahriyarEbrahimi&options[style]=male"
+  },
+  {
+    "id": 21,
+    "name": {
+      "en": "Fatemeh Razmjou",
+      "fa": "فاطمه رزمجو"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2203",
+    "mobile": "****",
+    "email": "f.razmjou@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FatemehRazmjou&options[style]=female"
+  },
+  {
+    "id": 22,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2204",
+    "mobile": "****",
+    "email": "user2204@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2204&options[style]=male"
+  },
+  {
+    "id": 23,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2205",
+    "mobile": "****",
+    "email": "user2205@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2205&options[style]=male"
+  },
+  {
+    "id": 24,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2206",
+    "mobile": "****",
+    "email": "user2206@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2206&options[style]=male"
+  },
+  {
+    "id": 25,
+    "name": {
+      "en": "Hossein Nayeb Derakhtan",
+      "fa": "حسین نایب درختان"
+    },
+    "title": {
+      "en": "Commercial Manager",
+      "fa": "مدیر بازرگانی"
+    },
+    "department": {
+      "en": "Commercial Management",
+      "fa": "مدیر بازرگانی"
+    },
+    "extension": "2207",
+    "mobile": "****",
+    "email": "h.derakhtan@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HosseinNayebDerakhtan&options[style]=male"
+  },
+  {
+    "id": 26,
+    "name": {
+      "en": "Haj Hossein Hazrati",
+      "fa": "حاج حسین حضرتی"
+    },
+    "title": {
+      "en": "CEO",
+      "fa": "مدیر عامل"
+    },
+    "department": {
+      "en": "Executive Management",
+      "fa": "مدیر عامل"
+    },
+    "extension": "2208",
+    "mobile": "****",
+    "email": "haj.hazrati@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HajHosseinHazrati&options[style]=male"
+  },
+  {
+    "id": 27,
+    "name": {
+      "en": "Saman Aalinejad",
+      "fa": "صمد عالی نژاد"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2209",
+    "mobile": "****",
+    "email": "s.aalinejad@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamanAalinejad&options[style]=male"
+  },
+  {
+    "id": 28,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2210",
+    "mobile": "****",
+    "email": "user2210@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2210&options[style]=male"
+  },
+  {
+    "id": 29,
+    "name": {
+      "en": "Mirhashem SeyyedAhmadi",
+      "fa": "میرهاشم سیداحمدی"
+    },
+    "title": {
+      "en": "Customs Specialist",
+      "fa": "کارشناس گمرک"
+    },
+    "department": {
+      "en": "Customs",
+      "fa": "گمرک"
+    },
+    "extension": "2211",
+    "mobile": "****",
+    "email": "m.seyyedahmadi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MirhashemSeyyedAhmadi&options[style]=male"
+  },
+  {
+    "id": 30,
+    "name": {
+      "en": "Javad Ansari",
+      "fa": "جواد انصاری"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2212",
+    "mobile": "****",
+    "email": "j.ansari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=JavadAnsari&options[style]=male"
+  },
+  {
+    "id": 31,
+    "name": {
+      "en": "Nasim Khodapanah",
+      "fa": "نسیم خداپناه"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2213",
+    "mobile": "****",
+    "email": "n.khodapanah@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NasimKhodapanah&options[style]=female"
+  },
+  {
+    "id": 32,
+    "name": {
+      "en": "Ramin Zalizadeh",
+      "fa": "رامین زالی زاده"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2214",
+    "mobile": "****",
+    "email": "r.zalizadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RaminZalizadeh&options[style]=male"
+  },
+  {
+    "id": 33,
+    "name": {
+      "en": "Shida Hazrati",
+      "fa": "شیدا حضرتی"
+    },
+    "title": {
+      "en": "HR Specialist",
+      "fa": "کارشناس کارگزینی"
+    },
+    "department": {
+      "en": "HR - Azar Foolad Amin",
+      "fa": "کارگزینی آذر فولاد امین"
+    },
+    "extension": "2215",
+    "mobile": "****",
+    "email": "sh.hazrati@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShidaHazrati&options[style]=female"
+  },
+  {
+    "id": 34,
+    "name": {
+      "en": "Parastoo Anjam",
+      "fa": "پرستو انجام"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2216",
+    "mobile": "****",
+    "email": "p.anjam@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ParastooAnjam&options[style]=female"
+  },
+  {
+    "id": 35,
+    "name": {
+      "en": "Finance Department",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2217",
+    "mobile": "****",
+    "email": "finance.2217@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Finance2217&options[style]=male"
+  },
+  {
+    "id": 36,
+    "name": {
+      "en": "Roghaye Rezvanzadeh",
+      "fa": "رقیه رضوان زاده"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2218",
+    "mobile": "****",
+    "email": "r.rezvanzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RoghayeRezvanzadeh&options[style]=female"
+  },
+  {
+    "id": 37,
+    "name": {
+      "en": "Reza Hosseini",
+      "fa": "رضا حسینی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2219",
+    "mobile": "****",
+    "email": "r.hosseini@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RezaHosseini&options[style]=male"
+  },
+  {
+    "id": 38,
+    "name": {
+      "en": "Shadi Alizadeh",
+      "fa": "شادی علیزاده"
+    },
+    "title": {
+      "en": "Administrative Assistant",
+      "fa": "منشی اداری"
+    },
+    "department": {
+      "en": "Secretariat - Azar Foolad Amin",
+      "fa": "دبیرخانه آذر فولاد امین"
+    },
+    "extension": "2220",
+    "mobile": "****",
+    "email": "s.alizadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShadiAlizadeh&options[style]=female"
+  },
+  {
+    "id": 39,
+    "name": {
+      "en": "Mahdi Setar Jamshidi",
+      "fa": "مهدی ستار جمشیدی"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2221",
+    "mobile": "****",
+    "email": "m.jamshidi2@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MahdiSetarJamshidi&options[style]=male"
+  },
+  {
+    "id": 40,
+    "name": {
+      "en": "Negin Aalinejad",
+      "fa": "نگین عالی نژاد"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2222",
+    "mobile": "****",
+    "email": "n.aalinejad@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NeginAalinejad&options[style]=female"
+  },
+  {
+    "id": 41,
+    "name": {
+      "en": "Sanaz Farshbaf",
+      "fa": "ساناز فرشباف"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2223",
+    "mobile": "****",
+    "email": "s.farshbaf@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SanazFarshbaf&options[style]=female"
+  },
+  {
+    "id": 42,
+    "name": {
+      "en": "Nastaran Movahed",
+      "fa": "نسترن موحد"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2224",
+    "mobile": "****",
+    "email": "n.movahed@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NastaranMovahed&options[style]=female"
+  },
+  {
+    "id": 43,
+    "name": {
+      "en": "Saeed Zeinali",
+      "fa": "سعید زینالی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2225",
+    "mobile": "****",
+    "email": "s.zeinali@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SaeedZeinali&options[style]=male"
+  },
+  {
+    "id": 44,
+    "name": {
+      "en": "Saeed Paykoub",
+      "fa": "سعید پایکوب"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2226",
+    "mobile": "****",
+    "email": "s.paykoub@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SaeedPaykoub&options[style]=male"
+  },
+  {
+    "id": 45,
+    "name": {
+      "en": "Nasim Eshragh",
+      "fa": "نسیم اشرق"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2227",
+    "mobile": "****",
+    "email": "n.eshragh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NasimEshragh&options[style]=female"
+  },
+  {
+    "id": 46,
+    "name": {
+      "en": "Hanieh Moravi",
+      "fa": "هانیه مروی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2228",
+    "mobile": "****",
+    "email": "h.moravi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HaniehMoravi&options[style]=female"
+  },
+  {
+    "id": 47,
+    "name": {
+      "en": "Asghar Khalghi",
+      "fa": "اصغر خالقی"
+    },
+    "title": {
+      "en": "Security Officer",
+      "fa": "کارمند حراست"
+    },
+    "department": {
+      "en": "Security - Head Office",
+      "fa": "حراست دفتر مرکزی"
+    },
+    "extension": "2229",
+    "mobile": "****",
+    "email": "a.khalghi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AsgharKhalghi&options[style]=male"
+  },
+  {
+    "id": 48,
+    "name": {
+      "en": "Finance Department",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2230",
+    "mobile": "****",
+    "email": "finance.2230@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Finance2230&options[style]=male"
+  },
+  {
+    "id": 49,
+    "name": {
+      "en": "Milad Pakgar",
+      "fa": "میلاد پاک گر"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2231",
+    "mobile": "****",
+    "email": "m.pakgar@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MiladPakgar&options[style]=male"
+  },
+  {
+    "id": 50,
+    "name": {
+      "en": "Reza Mardanpour",
+      "fa": "رضا مردان پور"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2232",
+    "mobile": "****",
+    "email": "r.pour@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RezaMardanpour&options[style]=male"
+  },
+  {
+    "id": 51,
+    "name": {
+      "en": "IT Mobile Phone",
+      "fa": "تلفن دستی فناوری"
+    },
+    "title": {
+      "en": "IT Equipment",
+      "fa": "تجهیزات فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2233",
+    "mobile": "****",
+    "email": "it.mobile@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ITMobile&options[style]=male"
+  },
+  {
+    "id": 52,
+    "name": {
+      "en": "Eastern Pantry",
+      "fa": "آبدارخانه شرقی"
+    },
+    "title": {
+      "en": "Pantry Staff",
+      "fa": "پرسنل آبدارخانه"
+    },
+    "department": {
+      "en": "Pantry - Glass Building",
+      "fa": "آبدارخانه ساختمان شیشه ای"
+    },
+    "extension": "2234",
+    "mobile": "****",
+    "email": "pantry.east@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=EasternPantry&options[style]=female"
+  },
+  {
+    "id": 53,
+    "name": {
+      "en": "Hesam Pirzadeh",
+      "fa": "حسام پیرزاده"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2235",
+    "mobile": "****",
+    "email": "h.pirzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HesamPirzadeh&options[style]=male"
+  },
+  {
+    "id": 54,
+    "name": {
+      "en": "Nima Shahed Ali",
+      "fa": "نیما شاهد علی"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2236",
+    "mobile": "****",
+    "email": "n.ali@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NimaShahedAli&options[style]=male"
+  },
+  {
+    "id": 55,
+    "name": {
+      "en": "Anita Amirzadeh",
+      "fa": "آنیتا امیرزاده"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2237",
+    "mobile": "****",
+    "email": "a.amirzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AnitaAmirzadeh&options[style]=female"
+  },
+  {
+    "id": 56,
+    "name": {
+      "en": "Frank Javanshir",
+      "fa": "فرانک جوانشیر"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2238",
+    "mobile": "****",
+    "email": "f.javanshir@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FrankJavanshir&options[style]=male"
+  },
+  {
+    "id": 57,
+    "name": {
+      "en": "Esmail Navah",
+      "fa": "اسماعیل نواح"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2239",
+    "mobile": "****",
+    "email": "e.navah@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=EsmailNavah&options[style]=male"
+  },
+  {
+    "id": 58,
+    "name": {
+      "en": "Saeedeh Safari",
+      "fa": "سعیده صفری"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Azar Foolad Amin",
+      "fa": "فروش آذر فولاد امین"
+    },
+    "extension": "2240",
+    "mobile": "****",
+    "email": "s.safari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SaeedehSafari&options[style]=female"
+  },
+  {
+    "id": 59,
+    "name": {
+      "en": "Maryam Setari (Not Delivered)",
+      "fa": "مریم ستاری - تحویل نشده"
+    },
+    "title": {
+      "en": "Pantry Staff",
+      "fa": "پرسنل آبدارخانه"
+    },
+    "department": {
+      "en": "Pantry - Azar Foolad Amin",
+      "fa": "آبدارخانه آذر فولاد امین"
+    },
+    "extension": "2241",
+    "mobile": "****",
+    "email": "m.setari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MaryamSetari&options[style]=female"
+  },
+  {
+    "id": 60,
+    "name": {
+      "en": "Kiwan Saleh",
+      "fa": "کیوان صالح"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2242",
+    "mobile": "****",
+    "email": "k.saleh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=KiwanSaleh&options[style]=male"
+  },
+  {
+    "id": 61,
+    "name": {
+      "en": "AFA Auditor (Not Delivered)",
+      "fa": "حسابرس آفا - تحویل نشده"
+    },
+    "title": {
+      "en": "Auditor",
+      "fa": "حسابرس"
+    },
+    "department": {
+      "en": "AFA Audit",
+      "fa": "حسابرس آفا"
+    },
+    "extension": "2243",
+    "mobile": "****",
+    "email": "auditor.afa@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AFAAuditor&options[style]=male"
+  },
+  {
+    "id": 62,
+    "name": {
+      "en": "Mohammad Ravaghi",
+      "fa": "محمد رواقی"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2244",
+    "mobile": "****",
+    "email": "m.ravaghi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MohammadRavaghi&options[style]=male"
+  },
+  {
+    "id": 63,
+    "name": {
+      "en": "Azra Naziri",
+      "fa": "عذرا نذیری"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2245",
+    "mobile": "****",
+    "email": "a.naziri@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AzraNaziri&options[style]=female"
+  },
+  {
+    "id": 64,
+    "name": {
+      "en": "Roya Baghban",
+      "fa": "رویا باغبان"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2246",
+    "mobile": "****",
+    "email": "r.baghban@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RoyaBaghban&options[style]=female"
+  },
+  {
+    "id": 65,
+    "name": {
+      "en": "Zahra Badii",
+      "fa": "زهرا بدیعی"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2247",
+    "mobile": "****",
+    "email": "z.badii@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ZahraBadii&options[style]=female"
+  },
+  {
+    "id": 66,
+    "name": {
+      "en": "Alnaz Ranjbar",
+      "fa": "الناز رنجبر"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2248",
+    "mobile": "****",
+    "email": "a.ranjbar@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AlnazRanjbar&options[style]=female"
+  },
+  {
+    "id": 67,
+    "name": {
+      "en": "Maryam Askari",
+      "fa": "مریم عسگری"
+    },
+    "title": {
+      "en": "Administrative Assistant",
+      "fa": "منشی اداری"
+    },
+    "department": {
+      "en": "Secretariat - Aras Tarla Amin",
+      "fa": "دبیرخانه ارس تارلا امین"
+    },
+    "extension": "2249",
+    "mobile": "****",
+    "email": "m.askari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MaryamAskari&options[style]=female"
+  },
+  {
+    "id": 68,
+    "name": {
+      "en": "Karim Ashjaei (Inactive)",
+      "fa": "کریم اشجعی - غیرفعال"
+    },
+    "title": {
+      "en": "Inactive",
+      "fa": "غیرفعال"
+    },
+    "department": {
+      "en": "Construction",
+      "fa": "عمران"
+    },
+    "extension": "2250",
+    "mobile": "****",
+    "email": "k.ashjaei@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=KarimAshjaei&options[style]=male"
+  },
+  {
+    "id": 69,
+    "name": {
+      "en": "Mohammad Taher Alipour",
+      "fa": "محمد طاهر علیپور"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2251",
+    "mobile": "****",
+    "email": "m.alipour@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MohammadTaherAlipour&options[style]=male"
+  },
+  {
+    "id": 70,
+    "name": {
+      "en": "Mahsa Abbasi",
+      "fa": "مهسا عباسی"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2252",
+    "mobile": "****",
+    "email": "m.abbasi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MahsaAbbasi&options[style]=female"
+  },
+  {
+    "id": 71,
+    "name": {
+      "en": "Fereydoun Tanazi",
+      "fa": "فریبرز طنازی"
+    },
+    "title": {
+      "en": "Public Relations Officer",
+      "fa": "مسئول روابط عمومی"
+    },
+    "department": {
+      "en": "Public Relations",
+      "fa": "روابط عمومی"
+    },
+    "extension": "2253",
+    "mobile": "****",
+    "email": "f.tanazi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FereydounTanazi&options[style]=male"
+  },
+  {
+    "id": 72,
+    "name": {
+      "en": "Parya Fazli Fard",
+      "fa": "پریا فاضلی فرد"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2254",
+    "mobile": "****",
+    "email": "p.fard@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ParyaFazliFard&options[style]=female"
+  },
+  {
+    "id": 73,
+    "name": {
+      "en": "Vahid Eslami",
+      "fa": "وحید اسلامی"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2255",
+    "mobile": "****",
+    "email": "v.eslami@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=VahidEslami&options[style]=male"
+  },
+  {
+    "id": 74,
+    "name": {
+      "en": "Seyed Pourmohammad",
+      "fa": "صیاد پورمحمد"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "IT - Head Office",
+      "fa": "انفورماتیک دفتر مرکزی"
+    },
+    "extension": "2256",
+    "mobile": "****",
+    "email": "s.pourmohammad@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SeyedPourmohammad&options[style]=male"
+  },
+  {
+    "id": 75,
+    "name": {
+      "en": "Morteza Hosseinzadeh",
+      "fa": "مرتضی حسین زاده"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2257",
+    "mobile": "****",
+    "email": "m.hosseinzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MortezaHosseinzadeh&options[style]=male"
+  },
+  {
+    "id": 76,
+    "name": {
+      "en": "Fatemeh Fekri",
+      "fa": "فاطمه فکری"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2258",
+    "mobile": "****",
+    "email": "f.fekri@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FatemehFekri&options[style]=female"
+  },
+  {
+    "id": 77,
+    "name": {
+      "en": "Siamak Miri",
+      "fa": "سیامک میری"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2259",
+    "mobile": "****",
+    "email": "s.miri@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SiamakMiri&options[style]=male"
+  },
+  {
+    "id": 78,
+    "name": {
+      "en": "Azam Shah Hosseini",
+      "fa": "اعظم شاه حسینی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2260",
+    "mobile": "****",
+    "email": "a.hosseini@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AzamShahHosseini&options[style]=female"
+  },
+  {
+    "id": 79,
+    "name": {
+      "en": "Eng. Eskandari",
+      "fa": "مهندس اسکندری"
+    },
+    "title": {
+      "en": "Consultant",
+      "fa": "مشاور"
+    },
+    "department": {
+      "en": "Consultant - Aras Tarla",
+      "fa": "مشاور ارس تارلا"
+    },
+    "extension": "2261",
+    "mobile": "****",
+    "email": "eng.eskandari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=EngEskandari&options[style]=male"
+  },
+  {
+    "id": 80,
+    "name": {
+      "en": "Parya Alipour",
+      "fa": "پریا علیپور"
+    },
+    "title": {
+      "en": "Contracts Specialist",
+      "fa": "کارشناس قراردادها"
+    },
+    "department": {
+      "en": "Contracts",
+      "fa": "قراردادها"
+    },
+    "extension": "2262",
+    "mobile": "****",
+    "email": "p.alipour@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ParyaAlipour&options[style]=female"
+  },
+  {
+    "id": 81,
+    "name": {
+      "en": "Mohammad Amin Jabari",
+      "fa": "محمد امین جباری"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2263",
+    "mobile": "****",
+    "email": "m.jabari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MohammadAminJabari&options[style]=male"
+  },
+  {
+    "id": 82,
+    "name": {
+      "en": "Leili Asgari",
+      "fa": "لیلی عسگری"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2264",
+    "mobile": "****",
+    "email": "l.asgari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=LeiliAsgari&options[style]=female"
+  },
+  {
+    "id": 83,
+    "name": {
+      "en": "Atefeh Alipour",
+      "fa": "عاطفه علیپور"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2265",
+    "mobile": "****",
+    "email": "a.alipour@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AtefehAlipour&options[style]=female"
+  },
+  {
+    "id": 84,
+    "name": {
+      "en": "Mehri Maleki",
+      "fa": "مهری ملکی"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2266",
+    "mobile": "****",
+    "email": "m.maleki@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MehriMaleki&options[style]=female"
+  },
+  {
+    "id": 85,
+    "name": {
+      "en": "Restaurant (Not Delivered)",
+      "fa": "رستوران - تحویل نشده"
+    },
+    "title": {
+      "en": "Restaurant",
+      "fa": "رستوران"
+    },
+    "department": {
+      "en": "Restaurant",
+      "fa": "رستوران"
+    },
+    "extension": "2267",
+    "mobile": "****",
+    "email": "restaurant@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Restaurant&options[style]=male"
+  },
+  {
+    "id": 86,
+    "name": {
+      "en": "Saeed Zeinali Fax",
+      "fa": "فکس سعید زینالی - سانترال"
+    },
+    "title": {
+      "en": "Finance System",
+      "fa": "سیستم مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla",
+      "fa": "مالی ارس تارلا"
+    },
+    "extension": "2268",
+    "mobile": "****",
+    "email": "s.fax@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SaeedZeinaliFax&options[style]=male"
+  },
+  {
+    "id": 87,
+    "name": {
+      "en": "Sahar Khakpour",
+      "fa": "سحر خاکپور"
+    },
+    "title": {
+      "en": "Greenhouse Staff",
+      "fa": "پرسنل گلخانه"
+    },
+    "department": {
+      "en": "Greenhouse",
+      "fa": "گلخانه"
+    },
+    "extension": "2269",
+    "mobile": "****",
+    "email": "s.khakpour@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SaharKhakpour&options[style]=female"
+  },
+  {
+    "id": 88,
+    "name": {
+      "en": "Sanaz Mohammadlou",
+      "fa": "ساناز محمدلو"
+    },
+    "title": {
+      "en": "Project Coordinator",
+      "fa": "هماهنگ‌کننده پروژه"
+    },
+    "department": {
+      "en": "Gozal Tabiat Project",
+      "fa": "گوزل طبیعت"
+    },
+    "extension": "2270",
+    "mobile": "****",
+    "email": "s.mohammadlou@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SanazMohammadlou&options[style]=female"
+  },
+  {
+    "id": 89,
+    "name": {
+      "en": "Samira Shahbaz",
+      "fa": "سمیرا شهباز"
+    },
+    "title": {
+      "en": "Customs Specialist",
+      "fa": "کارشناس گمرک"
+    },
+    "department": {
+      "en": "Customs",
+      "fa": "گمرک"
+    },
+    "extension": "2271",
+    "mobile": "****",
+    "email": "s.shahbaz@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamiraShahbaz&options[style]=female"
+  },
+  {
+    "id": 90,
+    "name": {
+      "en": "Vahideh Shaban",
+      "fa": "وحیده شعبانی"
+    },
+    "title": {
+      "en": "Greenhouse Staff",
+      "fa": "پرسنل گلخانه"
+    },
+    "department": {
+      "en": "Greenhouse",
+      "fa": "گلخانه"
+    },
+    "extension": "2272",
+    "mobile": "****",
+    "email": "v.shaban@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=VahidehShaban&options[style]=female"
+  },
+  {
+    "id": 91,
+    "name": {
+      "en": "Hadi Hassanzadeh",
+      "fa": "هادی حسن زاده"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2273",
+    "mobile": "****",
+    "email": "h.hassanzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HadiHassanzadeh&options[style]=male"
+  },
+  {
+    "id": 92,
+    "name": {
+      "en": "Kaveh Karimkhani",
+      "fa": "کاوه کریم خانی"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2274",
+    "mobile": "****",
+    "email": "k.karimkhani@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=KavehKarimkhani&options[style]=male"
+  },
+  {
+    "id": 93,
+    "name": {
+      "en": "Rasoul Emami",
+      "fa": "رسول امامی"
+    },
+    "title": {
+      "en": "Customs Specialist",
+      "fa": "کارشناس گمرک"
+    },
+    "department": {
+      "en": "Customs",
+      "fa": "گمرک"
+    },
+    "extension": "2275",
+    "mobile": "****",
+    "email": "r.emami@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RasoulEmami&options[style]=male"
+  },
+  {
+    "id": 94,
+    "name": {
+      "en": "Lida Javan",
+      "fa": "لیدا جوان"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2276",
+    "mobile": "****",
+    "email": "l.javan@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=LidaJavan&options[style]=female"
+  },
+  {
+    "id": 95,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2277",
+    "mobile": "****",
+    "email": "user2277@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2277&options[style]=male"
+  },
+  {
+    "id": 96,
+    "name": {
+      "en": "Mahtab Behiari",
+      "fa": "مهتاب بهیاری"
+    },
+    "title": {
+      "en": "Customs Specialist",
+      "fa": "کارشناس گمرک"
+    },
+    "department": {
+      "en": "Customs",
+      "fa": "گمرک"
+    },
+    "extension": "2278",
+    "mobile": "****",
+    "email": "m.behiari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MahtabBehiari&options[style]=female"
+  },
+  {
+    "id": 97,
+    "name": {
+      "en": "Farzad Ezatollahi",
+      "fa": "فرزاد عزت الهی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amir",
+      "fa": "مالی ارس تارلا امیر"
+    },
+    "extension": "2279",
+    "mobile": "****",
+    "email": "f.ezatollahi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FarzadEzatollahi&options[style]=male"
+  },
+  {
+    "id": 98,
+    "name": {
+      "en": "Hassan Zeinali",
+      "fa": "حسن زینالی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amin",
+      "fa": "مالی ارس تارلا امین"
+    },
+    "extension": "2280",
+    "mobile": "****",
+    "email": "h.zeinali@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HassanZeinali&options[style]=male"
+  },
+  {
+    "id": 99,
+    "name": {
+      "en": "Mehdi Shadabi",
+      "fa": "مهدی شادابی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amir",
+      "fa": "مالی ارس تارلا امیر"
+    },
+    "extension": "2281",
+    "mobile": "****",
+    "email": "m.shadabi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MehdiShadabi&options[style]=male"
+  },
+  {
+    "id": 100,
+    "name": {
+      "en": "Hamed Talebi",
+      "fa": "حامد طالبی"
+    },
+    "title": {
+      "en": "Supplier Evaluation Specialist",
+      "fa": "کارشناس ارزیابی تامین کنندگان"
+    },
+    "department": {
+      "en": "Supplier Evaluation",
+      "fa": "ارزیابی تامین کنندگان"
+    },
+    "extension": "2282",
+    "mobile": "****",
+    "email": "h.talebi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HamedTalebi&options[style]=male"
+  },
+  {
+    "id": 101,
+    "name": {
+      "en": "Mina Saemi",
+      "fa": "مینا صائمی"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Domestic Procurement",
+      "fa": "تدارکات داخلی"
+    },
+    "extension": "2283",
+    "mobile": "****",
+    "email": "m.saemi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MinaSaemi&options[style]=female"
+  },
+  {
+    "id": 102,
+    "name": {
+      "en": "Saman Hanifian",
+      "fa": "صمد حنیفیان"
+    },
+    "title": {
+      "en": "Maintenance Technician",
+      "fa": "تکنسین تعمیرات"
+    },
+    "department": {
+      "en": "Maintenance Unit",
+      "fa": "واحد تعمیرات"
+    },
+    "extension": "2284",
+    "mobile": "****",
+    "email": "s.hanifian@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SamanHanifian&options[style]=male"
+  },
+  {
+    "id": 103,
+    "name": {
+      "en": "Amir Heydari",
+      "fa": "امیر حیدری"
+    },
+    "title": {
+      "en": "Systems Consultant",
+      "fa": "مشاور سیستم ها و روش ها"
+    },
+    "department": {
+      "en": "Systems & Methods",
+      "fa": "مشاور سیستم ها و روش ها"
+    },
+    "extension": "2285",
+    "mobile": "****",
+    "email": "a.heydari@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AmirHeydari&options[style]=male"
+  },
+  {
+    "id": 104,
+    "name": {
+      "en": "Zahra Roshani",
+      "fa": "زهرا روشنی"
+    },
+    "title": {
+      "en": "International Trade Specialist",
+      "fa": "کارشناس بازرگانی خارجی"
+    },
+    "department": {
+      "en": "International Trade",
+      "fa": "بازرگانی خارجی"
+    },
+    "extension": "2286",
+    "mobile": "****",
+    "email": "z.roshani@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ZahraRoshani&options[style]=female"
+  },
+  {
+    "id": 105,
+    "name": {
+      "en": "Ali Bagherzadeh (Inactive)",
+      "fa": "علی باقرزاده - غیرفعال"
+    },
+    "title": {
+      "en": "Inactive",
+      "fa": "غیرفعال"
+    },
+    "department": {
+      "en": "Audit",
+      "fa": "حسابرس"
+    },
+    "extension": "2287",
+    "mobile": "****",
+    "email": "a.bagherzadeh2@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AliBagherzadeh2&options[style]=male"
+  },
+  {
+    "id": 106,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2288",
+    "mobile": "****",
+    "email": "user2288@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=User2288&options[style]=male"
+  },
+  {
+    "id": 107,
+    "name": {
+      "en": "Pegah Pezeshki",
+      "fa": "پگاه پزشکی"
+    },
+    "title": {
+      "en": "Sales Specialist",
+      "fa": "کارشناس فروش"
+    },
+    "department": {
+      "en": "Sales - Foolad Amir Azerbaijan",
+      "fa": "فروش فولاد امیر آذربایجان"
+    },
+    "extension": "2289",
+    "mobile": "****",
+    "email": "p.pezeshki@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=PegahPezeshki&options[style]=female"
+  },
+  {
+    "id": 108,
+    "name": {
+      "en": "Younes Asgariyan",
+      "fa": "یونس اصغریان"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Foolad Amir Azerbaijan",
+      "fa": "مالی فولاد  امیر آذربایجان"
+    },
+    "extension": "2290",
+    "mobile": "****",
+    "email": "y.asgariyan@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=YounesAsgariyan&options[style]=male"
+  },
+  {
+    "id": 109,
+    "name": {
+      "en": "Vida Esmaeili",
+      "fa": "ویدا اسماعیلی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Foolad Amir Azerbaijan",
+      "fa": "مالی فولاد  امیر آذربایجان"
+    },
+    "extension": "2291",
+    "mobile": "****",
+    "email": "v.esmaeili@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=VidaEsmaeili&options[style]=female"
+  },
+  {
+    "id": 110,
+    "name": {
+      "en": "Elham Mosibzadeh",
+      "fa": "الهه مصیب زاده"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amin",
+      "fa": "مالی ارس تارلا امین"
+    },
+    "extension": "2292",
+    "mobile": "****",
+    "email": "e.mosibzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ElhamMosibzadeh&options[style]=female"
+  },
+  {
+    "id": 111,
+    "name": {
+      "en": "Parham Nourizadeh",
+      "fa": "پرهام نوری زاده"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amir",
+      "fa": "مالی ارس تارلا امیر"
+    },
+    "extension": "2293",
+    "mobile": "****",
+    "email": "p.nourizadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ParhamNourizadeh&options[style]=male"
+  },
+  {
+    "id": 112,
+    "name": {
+      "en": "Zhila Khodaei",
+      "fa": "ژیلا خدایی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Tarla Amir",
+      "fa": "مالی ارس تارلا امیر"
+    },
+    "extension": "2294",
+    "mobile": "****",
+    "email": "z.khodaei@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ZhilaKhodaei&options[style]=female"
+  },
+  {
+    "id": 113,
+    "name": {
+      "en": "Sohila Afzal",
+      "fa": "سهیلا افضل"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Parla Tejaret",
+      "fa": "مالی پارلا تجارت"
+    },
+    "extension": "2295",
+    "mobile": "****",
+    "email": "s.afzal@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SohilaAfzal&options[style]=female"
+  },
+  {
+    "id": 114,
+    "name": {
+      "en": "Ghazaleh Rahmativand",
+      "fa": "غزاله رحمتی وند"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Parla Tejaret",
+      "fa": "مالی پارلا تجارت"
+    },
+    "extension": "2296",
+    "mobile": "****",
+    "email": "g.rahmativand@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=GhazalehRahmativand&options[style]=female"
+  },
+  {
+    "id": 115,
+    "name": {
+      "en": "Atabek Keshtiban (Inactive)",
+      "fa": "اتابک کشتیبان - غیرفعال"
+    },
+    "title": {
+      "en": "Inactive",
+      "fa": "غیرفعال"
+    },
+    "department": {
+      "en": "Solar Power Plant Development",
+      "fa": "واحد توسعه نیروگاه خورشیدی"
+    },
+    "extension": "2297",
+    "mobile": "****",
+    "email": "a.keshtiban2@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AtabekKeshtiban&options[style]=male"
+  },
+  {
+    "id": 116,
+    "name": {
+      "en": "Farhad Niknafs",
+      "fa": "فرهاد نیک نفس"
+    },
+    "title": {
+      "en": "CEO",
+      "fa": "مدیر عامل"
+    },
+    "department": {
+      "en": "Executive Management - Holding",
+      "fa": "مدیر عامل هلدینگ"
+    },
+    "extension": "2298",
+    "mobile": "****",
+    "email": "f.niknafs@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FarhadNiknafs&options[style]=male"
+  },
+  {
+    "id": 117,
+    "name": {
+      "en": "Amirreza Kashchi",
+      "fa": "امیررضا کاشچی"
+    },
+    "title": {
+      "en": "Deputy CFO",
+      "fa": "معاونت امور مالی"
+    },
+    "department": {
+      "en": "Finance Deputy - Holding",
+      "fa": "معاونت امور مالی هلدینگ"
+    },
+    "extension": "2112",
+    "mobile": "****",
+    "email": "a.kashchi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AmirrezaKashchi&options[style]=male"
+  },
+  {
+    "id": 118,
+    "name": {
+      "en": "Jafar Seyedzadeh",
+      "fa": "جعفر سیدزاده"
+    },
+    "title": {
+      "en": "IT Manager",
+      "fa": "مدیر فناوری اطلاعات"
+    },
+    "department": {
+      "en": "IT - Holding",
+      "fa": "مدیر فناوری اطلاعات هلدینگ"
+    },
+    "extension": "2114",
+    "mobile": "****",
+    "email": "j.seyedzadeh@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=JafarSeyedzadeh&options[style]=male"
+  },
+  {
+    "id": 119,
+    "name": {
+      "en": "Sepideh Mirzaei",
+      "fa": "سپیده میرزایی"
+    },
+    "title": {
+      "en": "Systems Specialist",
+      "fa": "کارشناس سیستم ها و روش ها"
+    },
+    "department": {
+      "en": "Systems & Methods",
+      "fa": "سیستم ها و روش ها"
+    },
+    "extension": "2115",
+    "mobile": "****",
+    "email": "s.mirzaei@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SepidehMirzaei&options[style]=female"
+  },
+  {
+    "id": 120,
+    "name": {
+      "en": "Ovin Estadi",
+      "fa": "اوین استادی"
+    },
+    "title": {
+      "en": "Systems Specialist",
+      "fa": "کارشناس سیستم ها و روش ها"
+    },
+    "department": {
+      "en": "Systems & Methods",
+      "fa": "سیستم ها و روش ها"
+    },
+    "extension": "2116",
+    "mobile": "****",
+    "email": "o.estadi@local.afasteel.com",
+    "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=OvinEstadi&options[style]=female"
+  },
+  {
+    "id": 121,
+    "name": {
+      "en": "Majid Ghani Del",
+      "fa": "مجید غنی دل"
+    },
+    "title": {
+      "en": "Strategic Planning Deputy",
+      "fa": "معاونت طرح ریزی و کنترل راهبردی"
+    },
+    "department": {
+      "en": "Strategic Planning - Holding",
+      "fa": "معاونت طرح ریزی و کنترل راهبردی"
+    },
+    "extension": "2117",
+    "mobile": "****",
+    "email": "m.ghanidel@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=MajidGhaniDel&options[style]=male"
+  },
+  {
+    "id": 122,
+    "name": {
+      "en": "Gholamreza Rezaei",
+      "fa": "غلامرضا رضایی"
+    },
+    "title": {
+      "en": "Systems Specialist",
+      "fa": "کارشناس سیستم ها و روش ها"
+    },
+    "department": {
+      "en": "Systems & Methods",
+      "fa": "سیستم ها و روش ها"
+    },
+    "extension": "2118",
+    "mobile": "****",
+    "email": "gh.rezaei@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=GholamrezaRezaei&options[style]=male"
+  },
+  {
+    "id": 123,
+    "name": {
+      "en": "Ata Sharqi",
+      "fa": "عطا شرقی"
+    },
+    "title": {
+      "en": "Office Manager",
+      "fa": "مسئول دفتر"
+    },
+    "department": {
+      "en": "Holding Office",
+      "fa": "مسئول دفتر هلدینگ"
+    },
+    "extension": "2119",
+    "mobile": "****",
+    "email": "a.sharqi@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=AtaSharqi&options[style]=male"
+  },
+  {
+    "id": 124,
+    "name": {
+      "en": "Sarafi Meeting",
+      "fa": "Sarafi Meeting"
+    },
+    "title": {
+      "en": "Meeting Room",
+      "fa": "اتاق جلسه"
+    },
+    "department": {
+      "en": "Exchange Meeting Room",
+      "fa": "اتاق جلسه صرافی"
+    },
+    "extension": "2120",
+    "mobile": "****",
+    "email": "meeting.sarafi@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=SarafiMeeting&options[style]=male"
+  },
+  {
+    "id": 125,
+    "name": {
+      "en": "Ali Kharrazi",
+      "fa": "علی خرمی"
+    },
+    "title": {
+      "en": "Internal Auditor",
+      "fa": "حسابرسی داخلی"
+    },
+    "department": {
+      "en": "Internal Audit",
+      "fa": "حسابرسی داخلی"
+    },
+    "extension": "2123",
+    "mobile": "****",
+    "email": "a.kharrazi@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=AliKharrazi&options[style]=male"
+  },
+  {
+    "id": 126,
+    "name": {
+      "en": "Nazila Shakeri",
+      "fa": "نازیلا شاکری"
+    },
+    "title": {
+      "en": "Systems Specialist",
+      "fa": "کارشناس سیستم ها و روش ها"
+    },
+    "department": {
+      "en": "Systems & Methods",
+      "fa": "سیستم ها و روش ها"
+    },
+    "extension": "2124",
+    "mobile": "****",
+    "email": "n.shakeri@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=NazilaShakeri&options[style]=female"
+  },
+  {
+    "id": 127,
+    "name": {
+      "en": "Nasrin Moradi",
+      "fa": "نسرین مرادی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad Amin",
+      "fa": "مالی آذر فولاد امین"
+    },
+    "extension": "2125",
+    "mobile": "****",
+    "email": "n.moradi@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=NasrinMoradi&options[style]=female"
+  },
+  {
+    "id": 128,
+    "name": {
+      "en": "Faezeh Jahedkia",
+      "fa": "فائزه جاهدکیا"
+    },
+    "title": {
+      "en": "IT Specialist",
+      "fa": "کارشناس فناوری اطلاعات"
+    },
+    "department": {
+      "en": "Information Technology",
+      "fa": "فناوری اطلاعات"
+    },
+    "extension": "2126",
+    "mobile": "****",
+    "email": "f.jahedkia@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=FaezehJahedkia&options[style]=female"
+  },
+  {
+    "id": 129,
+    "name": {
+      "en": "Nader Shami",
+      "fa": "نادر شامی"
+    },
+    "title": {
+      "en": "Maintenance Technician",
+      "fa": "تکنسین تعمیرات"
+    },
+    "department": {
+      "en": "Maintenance",
+      "fa": "تعمیرات"
+    },
+    "extension": "2127",
+    "mobile": "****",
+    "email": "n.shami@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=NaderShami&options[style]=male"
+  },
+  {
+    "id": 130,
+    "name": {
+      "en": "Border Warehouse",
+      "fa": "انبار مرزداران"
+    },
+    "title": {
+      "en": "Sales - Border",
+      "fa": "فروش مرزداران"
+    },
+    "department": {
+      "en": "Sales - Border",
+      "fa": "فروش مرزداران"
+    },
+    "extension": "2128",
+    "mobile": "****",
+    "email": "warehouse1@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=BorderWarehouse1&options[style]=male"
+  },
+  {
+    "id": 131,
+    "name": {
+      "en": "Border Warehouse",
+      "fa": "انبار مرزداران"
+    },
+    "title": {
+      "en": "Sales - Border",
+      "fa": "فروش مرزداران"
+    },
+    "department": {
+      "en": "Sales - Border",
+      "fa": "فروش مرزداران"
+    },
+    "extension": "2129",
+    "mobile": "****",
+    "email": "warehouse2@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=BorderWarehouse2&options[style]=male"
+  },
+  {
+    "id": 132,
+    "name": {
+      "en": "Hamed Azizpour",
+      "fa": "حامد عزیزپور"
+    },
+    "title": {
+      "en": "Commercial Specialist",
+      "fa": "کارشناس بازرگانی"
+    },
+    "department": {
+      "en": "Commercial",
+      "fa": "بازرگانی"
+    },
+    "extension": "2130",
+    "mobile": "****",
+    "email": "h.azizpour@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=HamedAzizpour&options[style]=male"
+  },
+  {
+    "id": 133,
+    "name": {
+      "en": "Hassan Ata'at",
+      "fa": "حسن اطاعت"
+    },
+    "title": {
+      "en": "Distribution Specialist",
+      "fa": "کارشناس پخش"
+    },
+    "department": {
+      "en": "Distribution - Ata Vita",
+      "fa": "پخش آتاویتا"
+    },
+    "extension": "2131",
+    "mobile": "****",
+    "email": "h.ataat@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=HassanAtaat&options[style]=male"
+  },
+  {
+    "id": 134,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2132",
+    "mobile": "****",
+    "email": "user2132@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=User2132&options[style]=male"
+  },
+  {
+    "id": 135,
+    "name": {
+      "en": "Unknown",
+      "fa": ""
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2133",
+    "mobile": "****",
+    "email": "user2133@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=User2133&options[style]=male"
+  },
+  {
+    "id": 136,
+    "name": {
+      "en": "Mahdi Aalinejad",
+      "fa": "مهدی عالی نژاد"
+    },
+    "title": {
+      "en": "Procurement Specialist",
+      "fa": "کارشناس تدارکات"
+    },
+    "department": {
+      "en": "Procurement",
+      "fa": "تدارکات"
+    },
+    "extension": "2134",
+    "mobile": "****",
+    "email": "m.aalinejad2@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=MahdiAalinejad&options[style]=male"
+  },
+  {
+    "id": 137,
+    "name": {
+      "en": "Ayoub Sobhani",
+      "fa": "ایوب صبحانی"
+    },
+    "title": {
+      "en": "Finance Manager",
+      "fa": "مدیر مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Amin Parla",
+      "fa": "مدیر مالی ارس امین - پارلا"
+    },
+    "extension": "2135",
+    "mobile": "****",
+    "email": "a.sobhani@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=AyoubSobhani&options[style]=male"
+  },
+  {
+    "id": 138,
+    "name": {
+      "en": "Behrouz Pakkhiyal",
+      "fa": "بهروز پاکخیال"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Azar Foolad",
+      "fa": "مالی آذر فولاد"
+    },
+    "extension": "2136",
+    "mobile": "****",
+    "email": "b.pakkhiyal@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=BehrouzPakkhiyal&options[style]=male"
+  },
+  {
+    "id": 139,
+    "name": {
+      "en": "Amin Haddadpour",
+      "fa": "امین حدادپور"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2137",
+    "mobile": "****",
+    "email": "a.haddadpour@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=AminHaddadpour&options[style]=male"
+  },
+  {
+    "id": 140,
+    "name": {
+      "en": "Amir Farid Shadbod",
+      "fa": "امیر فرید شادباد"
+    },
+    "title": {
+      "en": "Internal Auditor",
+      "fa": "حسابرسی داخلی"
+    },
+    "department": {
+      "en": "Internal Audit",
+      "fa": "حسابرسی داخلی"
+    },
+    "extension": "2138",
+    "mobile": "****",
+    "email": "a.shadbod@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=AmirFaridShadbod&options[style]=male"
+  },
+  {
+    "id": 141,
+    "name": {
+      "en": "Yousef Kheiri",
+      "fa": "یوسف خیری"
+    },
+    "title": {
+      "en": "Financial Consultant",
+      "fa": "مشاور مالی"
+    },
+    "department": {
+      "en": "Financial Consulting - Azar Foolad",
+      "fa": "مشاور مالی آذر فولاد"
+    },
+    "extension": "2139",
+    "mobile": "****",
+    "email": "y.kheiri@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=YousefKheiri&options[style]=male"
+  },
+  {
+    "id": 142,
+    "name": {
+      "en": "Yaghoub Shirizadeh",
+      "fa": "یعقوب شیری زاده"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Amin",
+      "fa": "مالی ارس امین"
+    },
+    "extension": "2140",
+    "mobile": "****",
+    "email": "y.shirizadeh@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=YaghoubShirizadeh&options[style]=male"
+  },
+  {
+    "id": 143,
+    "name": {
+      "en": "Vahideh Azimi",
+      "fa": "وحیده عظیمی"
+    },
+    "title": {
+      "en": "Finance Specialist",
+      "fa": "کارشناس مالی"
+    },
+    "department": {
+      "en": "Finance - Aras Amir",
+      "fa": "مالی ارس امیر"
+    },
+    "extension": "2141",
+    "mobile": "****",
+    "email": "v.azimi@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=VahidehAzimi&options[style]=female"
+  },
+  {
+    "id": 144,
+    "name": {
+      "en": "Mardanpour Q.R.",
+      "fa": "مردان پور ق ر"
+    },
+    "title": {
+      "en": "-",
+      "fa": "-"
+    },
+    "department": {
+      "en": "-",
+      "fa": "-"
+    },
+    "extension": "2145",
+    "mobile": "****",
+    "email": "m.mardanpour@local.afasteel.com",
+    "photo": "https://api.dicebel.com/7.x/avataaars/svg?seed=MardanpourQR&options[style]=male"
+  }
+]
