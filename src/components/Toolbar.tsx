@@ -12,6 +12,9 @@ interface ToolbarProps {
   selectedDepartment: string;
   onDepartmentChange: (value: string) => void;
   departments: string[];
+  selectedCompany: string;
+  onCompanyChange: (value: string) => void;
+  companies: string[];
   onRefresh: () => void;
   onExport: (format: 'excel' | 'csv' | 'json') => void;
   isDarkMode: boolean;
@@ -25,6 +28,9 @@ export default function Toolbar({
   selectedDepartment,
   onDepartmentChange,
   departments,
+  selectedCompany,
+  onCompanyChange,
+  companies,
   onRefresh,
   onExport,
   isDarkMode,
@@ -55,7 +61,7 @@ export default function Toolbar({
         </div>
 
         <Select value={selectedDepartment} onValueChange={onDepartmentChange}>
-          <SelectTrigger className="w-full sm:w-[240px] h-12 border-2 bg-background/80 font-medium">
+          <SelectTrigger className="w-full sm:w-[200px] h-12 border-2 bg-background/80 font-medium">
             <SelectValue placeholder={t('filterByDepartment')} />
           </SelectTrigger>
           <SelectContent>
@@ -63,6 +69,20 @@ export default function Toolbar({
             {departments.map((dept) => (
               <SelectItem key={dept} value={dept} className="font-medium">
                 {dept}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+
+        <Select value={selectedCompany} onValueChange={onCompanyChange}>
+          <SelectTrigger className="w-full sm:w-[200px] h-12 border-2 bg-background/80 font-medium">
+            <SelectValue placeholder={t('filterByCompany')} />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="all" className="font-medium">{t('allCompanies')}</SelectItem>
+            {companies.map((comp) => (
+              <SelectItem key={comp} value={comp} className="font-medium">
+                {comp}
               </SelectItem>
             ))}
           </SelectContent>

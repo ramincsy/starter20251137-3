@@ -1,48 +1,100 @@
 import React from 'react';
+import { MaleAvatarSvg, FemaleAvatarSvg, AnonymousAvatarSvg, MaleAvatar2, FemaleAvatar2 } from './AvatarSvgs';
 
-// Render the existing public SVG files as simple <img/> components so they
-// look the same as the avatar assets in /public/avatars. This avoids any
-// runtime network dependency and keeps the markup simple.
+/**
+ * Avatar Components - Using SVG Components
+ * 
+ * Original Avatars (Simple SVG):
+ * - <AvatarMale /> - Simple blue male avatar
+ * - <AvatarFemale /> - Simple pink female avatar
+ * - <AvatarAnonymous /> - Simple gray anonymous avatar
+ * 
+ * New Avatars (Custom SVG):
+ * - <AvatarMale2 /> - Modern blue male avatar
+ * - <AvatarFemale2 /> - Modern pink female avatar
+ * 
+ * All SVG definitions are in AvatarSvgs.tsx - edit that file to customize colors and shapes.
+ * Custom SVGs are in /public/avatars/custom/
+ */
 
+type AvatarProps = React.SVGProps<SVGSVGElement> & { size?: number; className?: string };
 type ImgProps = React.ImgHTMLAttributes<HTMLImageElement> & { size?: number };
 
-export function AvatarMale({ size = 64, className, ...rest }: ImgProps) {
+/**
+ * Male Avatar (Original - Simple)
+ * 
+ * @param size - Avatar size in pixels (default: 64)
+ * @param className - Additional CSS classes
+ */
+export function AvatarMale({ size = 64, className = '', ...rest }: AvatarProps) {
   return (
-    <img
-      src="/avatars/male.svg"
-      alt="male avatar"
-      width={size}
-      height={size}
-      style={{ width: size, height: size }}
-      className={`${className ?? ''} object-cover rounded-md`}
+    <MaleAvatarSvg
+      size={size}
+      className={className}
       {...rest}
     />
   );
 }
 
-export function AvatarFemale({ size = 64, className, ...rest }: ImgProps) {
+/**
+ * Female Avatar (Original - Simple)
+ * 
+ * @param size - Avatar size in pixels (default: 64)
+ * @param className - Additional CSS classes
+ */
+export function AvatarFemale({ size = 64, className = '', ...rest }: AvatarProps) {
   return (
-    <img
-      src="/avatars/female.svg"
-      alt="female avatar"
-      width={size}
-      height={size}
-      style={{ width: size, height: size }}
-      className={`${className ?? ''} object-cover rounded-md`}
+    <FemaleAvatarSvg
+      size={size}
+      className={className}
       {...rest}
     />
   );
 }
 
-export function AvatarAnonymous({ size = 64, className, ...rest }: ImgProps) {
+/**
+ * Anonymous Avatar (Original - Simple)
+ * 
+ * @param size - Avatar size in pixels (default: 64)
+ * @param className - Additional CSS classes
+ */
+export function AvatarAnonymous({ size = 64, className = '', ...rest }: AvatarProps) {
   return (
-    <img
-      src="/avatars/anonymous.svg"
-      alt="anonymous avatar"
-      width={size}
-      height={size}
-      style={{ width: size, height: size }}
-      className={`${className ?? ''} object-cover rounded-md`}
+    <AnonymousAvatarSvg
+      size={size}
+      className={className}
+      {...rest}
+    />
+  );
+}
+
+/**
+ * Male Avatar 2 (Modern Custom)
+ * 
+ * @param size - Avatar size in pixels (default: 64)
+ * @param className - Additional CSS classes
+ */
+export function AvatarMale2({ size = 64, className = '', ...rest }: ImgProps) {
+  return (
+    <MaleAvatar2
+      size={size}
+      className={className}
+      {...rest}
+    />
+  );
+}
+
+/**
+ * Female Avatar 2 (Modern Custom)
+ * 
+ * @param size - Avatar size in pixels (default: 64)
+ * @param className - Additional CSS classes
+ */
+export function AvatarFemale2({ size = 64, className = '', ...rest }: ImgProps) {
+  return (
+    <FemaleAvatar2
+      size={size}
+      className={className}
       {...rest}
     />
   );
