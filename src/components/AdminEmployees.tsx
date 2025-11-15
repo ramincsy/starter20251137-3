@@ -6,7 +6,7 @@ import { useToast } from './ui/use-toast';
 interface Employee {
   id: number;
   company_id: number | null;
-  company_name: string | null;
+  company?: { en?: string; fa?: string };
   name: { en: string; fa: string };
   title: { en: string; fa: string };
   department: { en: string; fa: string };
@@ -417,7 +417,7 @@ export const AdminEmployees: React.FC = () => {
                   </td>
                   <td className="px-4 py-4">
                     <span className="text-sm text-gray-700">
-                      {employee.company_name || '-'}
+                      {employee.company?.en || '-'}
                     </span>
                   </td>
                   <td className="px-4 py-4">

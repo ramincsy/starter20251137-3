@@ -10,7 +10,7 @@ import { Employee } from '@/types/employee';
 import { useTranslation } from 'react-i18next';
 
 interface ModernContactCardProps {
-  employee: (Employee & { show_mobile?: number; show_email?: number; company_name?: string }) | null;
+  employee: (Employee & { show_mobile?: number; show_email?: number; company?: { en?: string; fa?: string } }) | null;
 }
 
 export default function ModernContactCard({ employee }: ModernContactCardProps) {
@@ -151,11 +151,11 @@ export default function ModernContactCard({ employee }: ModernContactCardProps) 
 
             {/* Company & Department - Fixed Height */}
             <div className="flex flex-col items-center gap-2 min-h-[70px] justify-center">
-              {employee.company_name && (
+              {employee.company?.[lang] && (
                 <div className="flex items-center justify-center gap-1.5 w-full">
                   <Building2 className="w-4 h-4 text-blue-600 dark:text-blue-400 flex-shrink-0" />
                   <Badge className="bg-blue-100/80 dark:bg-blue-950/60 text-blue-900 dark:text-blue-200 px-2.5 py-1 text-xs sm:text-sm font-semibold rounded-lg line-clamp-1">
-                    {employee.company_name}
+                    {employee.company?.[lang]}
                   </Badge>
                 </div>
               )}

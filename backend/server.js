@@ -239,10 +239,8 @@ app.post('/api/auth/login', async (req, res) => {
       return res.status(401).json({ error: 'Invalid credentials' });
     }
 
-    const passwordMatch = await bcryptjs.compare(
-      password,
-      admin.password_hash
-    );
+    // verify password
+    const passwordMatch = await bcryptjs.compare(password, admin.password_hash);
     if (!passwordMatch) {
       return res.status(401).json({ error: 'Invalid credentials' });
     }
@@ -406,7 +404,7 @@ app.delete(
 app.get('/api/employees', async (req, res) => {
   try {
     const rows = await db.all(
-      `SELECT e.id, e.company_id, c.name_en as company_name, e.name_en, e.name_fa, e.title_en, e.title_fa, 
+      `SELECT e.id, e.company_id, c.name_en as company_name_en, c.name_fa as company_name_fa, e.name_en, e.name_fa, e.title_en, e.title_fa, 
             e.dept_en, e.dept_fa, e.extension, e.mobile, e.email, e.photo, e.icon, e.visible, e.show_mobile, e.show_email 
        FROM employees e
        LEFT JOIN companies c ON e.company_id = c.id
@@ -414,10 +412,10 @@ app.get('/api/employees', async (req, res) => {
        ORDER BY e.id ASC`
     );
 
-    const employees = rows.map((row) => ({
+      const employees = rows.map((row) => ({
       id: row.id,
       company_id: row.company_id,
-      company_name: row.company_name,
+        company: { en: row.company_name_en || '', fa: row.company_name_fa || '' },
       name: { en: row.name_en || '', fa: row.name_fa || '' },
       title: { en: row.title_en || '', fa: row.title_fa || '' },
       department: { en: row.dept_en || '', fa: row.dept_fa || '' },
@@ -442,7 +440,7 @@ app.get('/api/employees', async (req, res) => {
 app.get('/api/admin/employees', authenticateToken, async (req, res) => {
   try {
     const { company_id } = req.query;
-    let query = `SELECT e.id, e.company_id, c.name_en as company_name, e.name_en, e.name_fa, e.title_en, e.title_fa, 
+    let query = `SELECT e.id, e.company_id, c.name_en as company_name_en, c.name_fa as company_name_fa, e.name_en, e.name_fa, e.title_en, e.title_fa, 
     e.dept_en, e.dept_fa, e.extension, e.mobile, e.email, e.photo, e.icon, e.visible, e.show_mobile, e.show_email 
   FROM employees e
   LEFT JOIN companies c ON e.company_id = c.id`;
@@ -460,7 +458,7 @@ app.get('/api/admin/employees', authenticateToken, async (req, res) => {
     const employees = rows.map((row) => ({
       id: row.id,
       company_id: row.company_id,
-      company_name: row.company_name,
+      company: { en: row.company_name_en || '', fa: row.company_name_fa || '' },
       name: { en: row.name_en || '', fa: row.name_fa || '' },
       title: { en: row.title_en || '', fa: row.title_fa || '' },
       department: { en: row.dept_en || '', fa: row.dept_fa || '' },
@@ -485,7 +483,7 @@ app.get('/api/admin/employees', authenticateToken, async (req, res) => {
 app.get('/api/employees/:id', async (req, res) => {
   try {
     const row = await db.get(
-      `SELECT e.id, e.company_id, c.name_en as company_name, e.name_en, e.name_fa, e.title_en, e.title_fa, 
+      `SELECT e.id, e.company_id, c.name_en as company_name_en, c.name_fa as company_name_fa, e.name_en, e.name_fa, e.title_en, e.title_fa, 
               e.dept_en, e.dept_fa, e.extension, e.mobile, e.email, e.photo, e.icon, e.visible, e.show_mobile, e.show_email 
        FROM employees e
        LEFT JOIN companies c ON e.company_id = c.id

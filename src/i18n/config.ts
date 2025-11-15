@@ -82,11 +82,23 @@ i18n
   .use(initReactI18next)
   .init({
     resources,
-  lng: 'fa',
+    lng: localStorage.getItem('i18nextLng') || 'fa',
     fallbackLng: 'en',
     interpolation: {
       escapeValue: false
     }
   });
+
+// Set initial document direction and language
+const currentLang = i18n.language;
+document.documentElement.lang = currentLang;
+document.documentElement.dir = currentLang === 'fa' ? 'rtl' : 'ltr';
+
+// Watch for language changes
+i18n.on('languageChanged', (lng) => {
+  document.documentElement.lang = lng;
+  document.documentElement.dir = lng === 'fa' ? 'rtl' : 'ltr';
+  localStorage.setItem('i18nextLng', lng);
+});
 
 export default i18n;

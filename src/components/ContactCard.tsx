@@ -7,7 +7,7 @@ import { Employee } from '@/types/employee';
 import { useTranslation } from 'react-i18next';
 
 interface ContactCardProps {
-  employee: (Employee & { show_mobile?: number; show_email?: number; company_name?: string }) | null;
+  employee: (Employee & { show_mobile?: number; show_email?: number; company?: { en?: string; fa?: string } }) | null;
   matchedFields?: {
     nameEn?: boolean;
     nameFa?: boolean;
@@ -60,11 +60,11 @@ export default function ContactCard({ employee }: ContactCardProps) {
           {/* Company and Department */}
           <div className="space-y-2 sm:space-y-2.5 mb-4 sm:mb-5 flex-grow">
             {/* Company */}
-            {employee.company_name && (
+            {employee.company?.[lang] && (
               <div className="flex items-center justify-center gap-2 flex-wrap">
                 <Building2 className="w-4 h-4 sm:w-5 sm:h-5 text-blue-600 dark:text-blue-400 flex-shrink-0" />
                 <Badge className="bg-gradient-to-r from-blue-500/20 to-cyan-500/20 dark:from-blue-400/30 dark:to-cyan-400/30 text-blue-700 dark:text-blue-300 border border-blue-300/50 dark:border-blue-500/50 hover:bg-gradient-to-r hover:from-blue-500/30 hover:to-cyan-500/30 text-xs sm:text-sm px-2 sm:px-3 py-1">
-                  {employee.company_name}
+                  {employee.company?.[lang]}
                 </Badge>
               </div>
             )}

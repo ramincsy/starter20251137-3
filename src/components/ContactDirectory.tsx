@@ -9,7 +9,6 @@ import { Alert, AlertDescription } from '@/components/ui/alert';
 import { AlertCircle, Users, Building2 } from 'lucide-react';
 import { useToast } from '@/components/ui/use-toast';
 import { Toaster } from '@/components/ui/toaster';
-import '../i18n/config';
 
 function normalizeText(s: string) {
   if (!s) return '';
@@ -149,13 +148,14 @@ export default function ContactDirectory() {
 }, [employees, i18n.language]);
 
   const companies = useMemo(() => {
-  const comps = new Set(
-    employees
-      .map(emp => emp.company_name)
-      .filter(comp => comp && comp !== '-' && comp !== 'Disabled')
-  );
-  return Array.from(comps).sort();
-}, [employees]);
+    const lang = i18n.language as 'en' | 'fa';
+    const comps = new Set(
+      employees
+        .map(emp => emp.company?.[lang])
+        .filter(comp => comp && comp !== '-' && comp !== 'Disabled')
+    );
+    return Array.from(comps).sort();
+  }, [employees, i18n.language]);
 
   const searchResults = useMemo(() => {
     const lang = i18n.language as 'en' | 'fa';
@@ -164,7 +164,7 @@ export default function ContactDirectory() {
       const searchMatch = findMatches(emp, searchTerm);
       const matchesDepartment = selectedDepartment === 'all' || 
         normalizeText(emp.department?.[lang]) === normalizeText(selectedDepartment);
-      const empCompanyName = (emp as any).company_name || '';
+      const empCompanyName = (emp as any).company?.[lang] || '';
       const matchesCompany = selectedCompany === 'all' || 
         normalizeText(empCompanyName) === normalizeText(selectedCompany);
 
