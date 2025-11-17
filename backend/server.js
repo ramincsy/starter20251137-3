@@ -746,7 +746,7 @@ app.patch(
         'employee',
         parseInt(req.params.id),
         employee?.name_fa || employee?.name_en,
-        `موبائل کاربر "${employee?.name_fa || employee?.name_en}" ${statusText}`
+        `موبایل کاربر "${employee?.name_fa || employee?.name_en}" ${statusText}`
       );
 
       const updatedEmployee = await db.get('SELECT * FROM employees WHERE id = ?', [

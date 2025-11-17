@@ -138,7 +138,7 @@ export const ActivityLog: React.FC = () => {
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <h1 className="text-3xl font-bold text-gray-800">سیاق فعالیت‌ها</h1>
+        <h1 className="text-3xl font-bold text-gray-800">سوابق فعالیت‌ها</h1>
         <p className="text-gray-600 mt-2">
           مشاهده تمام فعالیت‌های اخیر و تغییرات سامانه
         </p>

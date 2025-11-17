@@ -215,13 +215,14 @@ export default function ContactDirectory() {
               <h1 className="text-5xl sm:text-6xl font-black text-white drop-shadow-lg leading-tight">
                 دفترچه تلفن
                 <br />
+                
                 <span className="bg-gradient-to-r from-yellow-300 via-orange-200 to-pink-200 bg-clip-text text-transparent">
                   سازمانی
                 </span>
               </h1>
 
               <p className="text-white/90 text-lg max-w-md leading-relaxed font-medium">
-                جستجو و ارتباط سریع با تمام اعضای تیم. پیدا کنید، تماس بگیرید، متصل شوید.
+                 ارتباط سریع با تمام اعضای شرکت
               </p>
 
               <div className="flex items-center gap-6 pt-2">
@@ -251,7 +252,7 @@ export default function ContactDirectory() {
 
                     {/* Company Name */}
                     <div>
-                      <p className="text-white/70 text-sm font-semibold mb-2 uppercase tracking-wide">شرکت مدیریت</p>
+                      <p className="text-white/70 text-sm font-semibold mb-2 uppercase tracking-wide">Holding company </p>
                       <h2 className="text-3xl font-black text-white">AFA STEEL</h2>
                     </div>
 

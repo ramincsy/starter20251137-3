@@ -33,7 +33,7 @@ export const AdminLayout: React.FC<AdminLayoutProps> = ({ children }) => {
     },
     {
       icon: '📋',
-      label: 'سیاق فعالیت',
+      label: 'سوابق فعالیت',
       path: '/admin/activity',
     },
     ...(isSuperAdmin
